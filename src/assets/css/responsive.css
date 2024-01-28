@@ -1,0 +1,1075 @@
+/*
+ Theme Name: Quomodo Business
+ Theme URI: 
+ Author: Mosharof
+ Author URI: 
+ Description: Quomodo - Business HTML5 Responsive Template
+ Version: 1.0
+ License:
+ License URI:
+ */
+/*=======================================================================
+[Table of contents]
+=========================================================================
+
+1. Responsive For Extra large Device 2
+2. Desktop Device
+3. Responsive For Tab Device
+4. Responsive For Mobile & Tab
+5. Responsive For Mobile Device
+*/
+
+
+/*------------------------------------------------------------------------------------
+/ 1. Responsive For Extra large Device 2
+--------------------------------------------------------------------------------------*/
+
+@media (min-width: 1200px) and (max-width: 1600px){
+	/*--- Home One ---*/
+    .client-logo.owl-carousel {
+	    padding: 0 115px;
+	}
+	.tabbar-wrapper,
+	.navbar.navbar-three{
+		margin: 0 -105px;
+	}
+	.hero-banner-03{
+		overflow: hidden;
+	}
+	.banner-content h1{
+		font-size: 85px;
+	}
+	.hb-4 .banner-thumb {
+	    right: -203px;
+	}
+}
+@media (min-width: 1200px){
+	.container, .container-sm, .container-md, .container-lg, .container-xl {
+	    max-width: 1170px;
+	}
+	
+}
+/*------------------------------------------------------------------------------------
+/ 2. Desktop Device
+/--------------------------------------------------------------------------------------*/
+@media (min-width: 992px) and (max-width: 1199px){
+	
+
+	/* Home One*/
+	.navbar.navbar-expand-lg {
+	    margin: 0 -20px;
+	    padding: 0 20px 0 0;
+	}
+	.navbar-brand{
+		padding: 37px 20px;
+	}
+	.navbar-expand-lg .navbar-nav{
+		padding-left: 80px;
+	}
+	.navbar-expand-lg .navbar-nav li{
+		margin-right: 30px;
+	}
+	.appoint-btn{
+		display: none;
+	}
+	.banner-content{
+		margin-left: 0;
+	}
+	.banner-content h1{
+		font-size: 70px;
+	}
+	.client-logo.owl-carousel {
+	    padding: 0 30px;
+	}
+	.strategy-shape{
+    	max-width: 35%;
+    }
+    .strategy-shape img{
+    	max-width: 100%;
+    }
+    .serivce-item{
+    	padding-left: 25px;
+    	padding-right: 25px;
+    }
+    .cta-item.right{
+    	padding-right: 130px;
+    }
+    .skill-item{
+    	margin-right: 25px;
+    }
+    .skill-thumb{
+    	margin-left: 0;
+    }
+    .angle-top{
+    	left: -27px;
+    }
+    .post-details{
+    	width: calc(100% - 40px);
+    }
+    .post-footer a{
+    	margin-right: 10px;
+    	font-size: 15px;
+    }
+    .sec-title{
+    	font-size: 45px;
+    	line-height: 60px;
+    }
+    /* Home 2 */
+    .navbar.navbar-two.navbar-expand-lg{
+    	margin: 0 -20px;
+    }
+    .ab-box{
+    	margin-right: 0;
+    }
+    .strategy-growth img{
+    	max-width: 100%;
+    }
+    .news-item-2 .post-details{
+    	padding-left: 15px;
+    	padding-right: 15px;
+    }
+    .navbar-two.navbar-expand-lg .navbar-nav {
+	    padding-left: 30px;
+	}
+	.navbar-two.navbar-expand-lg .navbar-nav li{
+		margin-right: 30px;
+	}
+	.solution-contact{
+		margin-left: -30px;
+		padding-left: 200px;
+	}
+	.solution-contact h2{
+		font-size: 38px;
+		margin-bottom: 20px;
+	}
+	.ab-box-in {
+	    margin-left: -20px;
+	}
+	.serivce-item-02.si-05,
+    .serivce-item-02.si-04,
+    .serivce-item-02.si-03,
+    .serivce-item-02.si-02 {
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+	.serivce-item-02{
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	.service-man{
+		margin-left: -30px;
+	}
+	.team-detail{
+		margin-right: 15px;
+	}
+	.strategy-content{
+		margin-right: 0;
+	}
+	.skills-section-2 .skill-content {
+	    margin-left: 0;
+	    margin-right: 0;
+	    padding-top: 10px;
+	}
+	.skill-thumb-2 {
+	    margin-left: -20px;
+	}
+	.banner-thumb{
+    	position: relative;
+    	bottom: 0;
+    	text-align: center;
+    	right: 0;
+    	animation-name: fadeInUp;
+    }
+    .tabbar-wrapper,
+	.navbar.navbar-three{
+		margin: 0 -20px;
+	}
+	.banner-st3-thumb{
+		margin: 0;
+	}
+	.banner-st3-thumb img{
+		width: 100%;
+	}
+	.tabbar-wrapper{
+		padding: 8px 15px;
+	}
+	.navbar.navbar-three{
+		padding: 0 15px;
+	}
+	.navbar.navbar-three .navbar-nav li {
+	    margin-right: 30px;
+	}
+	.serivce-item-03{
+		padding-left: 30px;
+		padding-right: 25px;
+	}
+    .work-title {
+	    padding: 25px 20px 20px 40px;
+	    min-height: 213px;
+	}
+	.wp-border-shape{
+		left: -50px;
+		top: -50px;
+	}
+	.wp-shape-right {
+	    right: -70px;
+	    top: -70px;
+	}
+	.slider-nav{
+		margin: 0 50px;
+	}
+	.contact-form,
+	.testi-quote{
+		margin: 0;
+	}
+	.banner-shape-1{
+		left: -40px;
+	}
+	.hb-4 .banner-thumb {
+	    right: -260px;
+	    position: absolute;
+	    bottom: 105px;
+	}
+	.service-image{
+		bottom: -70px;
+	}
+	.service-image img{
+		max-width: 85%;
+	}
+	.service-section-4 .sec-title {
+	    margin-bottom: 60px;
+	}
+	.pricing-item{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.pricing-item ul li i{
+		margin-right: 20px;
+	}
+	.page-content{
+		margin-left: 5px;
+	}
+	.service-title{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.service-title h3{
+		font-size: 40px;
+	}
+	.folio-content {
+	    width: calc(100% - 40px);
+	    padding: 46px 30px 44px;
+	}
+	.fs-item{
+		margin-right: 35px;
+	}
+	.news-page:after{
+		width: 65%;
+	}
+	.news-sidebar{
+		padding: 0 0;
+	}
+	.single-news-page:after{
+		width: 65%;
+	}
+	.contct-box{
+		margin-left: 0;
+		padding-left: 105px;
+	}
+	.contct-box i{
+		left: 25px;
+	}
+	.contct-box:last-child p br{
+		display: none;
+	}
+	.contact-page-form{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+}
+/*------------------------------------------------------------------------------------
+/ 3. Responsive For Tab Device
+/--------------------------------------------------------------------------------------*/
+@media (min-width: 768px) and (max-width: 991px){
+
+	/*-- Home One ---*/
+	.search-area{
+		margin-right: -50px;
+	}
+    .skill-thumb{
+    	margin-left: 0;
+    }
+    .angle-top{
+    	left: -27px;
+    }
+    .strategy-shape{
+    	max-width: 35%;
+    }
+    .strategy-shape img{
+    	max-width: 100%;
+    }
+    .fact-wrapper{
+    	padding-left: 20px;
+    	padding-right: 20px;
+    }
+    .post-details{
+    	width: calc(100% - 60px);
+    }
+    .post-footer a{
+    	margin-right: 20px;
+    	font-size: 15px;
+    }
+    .client-logo.owl-carousel a img{
+    	max-height: 75px;
+    }
+    .solution-contact{
+    	margin-left: -35px;
+    	padding-left: 150px;
+    }
+    .solution-contact h2{
+    	font-size: 40px;
+    	line-height: 50px;
+    	margin-bottom: 15px;
+    }
+    .solution-contact img{
+    	height: 200px;
+    }
+    .banner-thumb{
+    	position: relative;
+    	bottom: 0;
+    	text-align: center;
+    	right: 0;
+    	animation-name: fadeInUp;
+    }
+    .work-title {
+	    padding: 25px 20px 20px 40px;
+	    min-height: 160px;
+	}
+	.icon-box{
+		padding-left: 120px;
+	}
+	.icon-box svg{
+		left: 15px;
+	}
+    .fact-wrapper{
+        padding: 60px 50px;
+    }
+    .fact-wrapper .funfact-item{
+        width: 50%;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+}
+/*------------------------------------------------------------------------------------
+/ 4. Responsive For Mobile & Tab
+/--------------------------------------------------------------------------------------*/
+@media (max-width: 991px){
+    /*Home one*/
+    .navbar.navbar-expand-lg{
+    	padding: 0 15px 0 0;
+    	margin: 0 -15px;
+    }
+    .navbar-expand-lg .navbar-nav{
+    	padding: 0;
+    }
+    .navbar-brand{
+    	padding: 18px 30px;
+    }
+    .navbar.navbar-expand-lg .navbar-toggler {
+	    width: 45px;
+	    height: 30px;
+	    padding: 8px;
+	    outline: none;
+	    border-radius: 5px;
+	    border: 1px solid rgba(0,0,0,0.2);
+	}
+	.navbar.navbar-expand-lg .navbar-toggler .navbar-toggler-icon {
+	    display: block;
+	    width: 100%;
+	    height: 1px;
+	    margin: 0 0 4px;
+	    background: rgba(0,0,0,0.5);
+	}
+	.navbar-expand-lg .navbar-nav li .nav-link{
+		padding: 18px 20px;
+		color: #fff;
+	}
+	.navbar-expand-lg .navbar-nav li{
+		margin: 0;
+		border-bottom: 1px solid rgba(255, 255, 255, .1);
+	}
+	.navbar-expand-lg .navbar-nav li:last-child{
+		border: none;
+	}
+	.navbar-expand-lg .navbar-nav li .nav-link:before{
+		display: none;
+	}
+	.navbar-expand-lg .navbar-nav li.dropdown .nav-link:after{
+		content: "↓";
+		font-family: 'Font Awesome 5 Pro';
+		color: #fff;
+		font-size: 16px;
+		line-height: 56px;
+		position: absolute;
+		right: 15px;
+		top: 0;
+	}
+	.navbar.navbar-expand-lg .navbar-collapse {
+	    position: absolute;
+	    left: 0;
+	    top: 100%;
+	    width: 100%;
+	    background: #14212b;
+	    border-radius: 0;
+	    z-index: 99;
+	}
+	.navbar-expand-lg .navbar-nav li .dropdown-menu{
+		position: relative;
+	    visibility: visible;
+	    opacity: 1;
+	    width: 100%;
+	    background: #fff;
+	    left: 0;
+	    top: 0;
+	    display: none;
+	    transform: none;
+	    transition: none;
+	    box-shadow: none;
+	    transition: all .4s ease;
+	}
+	.navbar-expand-lg .navbar-collapse.show > li .dropdown-menu {
+	    display: block;
+	    top: 0;
+	    transition: all .4s ease;
+	}
+	.navbar-expand-lg .navbar-nav li .dropdown-menu li{
+		border-color: rgba(0, 0, 0, .1);
+	}
+	.navbar-expand-lg .navbar-nav li.dropdown .dropdown-menu li a.nav-link:after{
+		color: #14212b;
+		line-height: 46px;
+	}
+	.navbar-expand-lg .navbar-collapse .navbar-nav li .dropdown-menu li .dropdown-menu{
+		visibility: visible;
+		opacity: 1;
+		top: 0;
+		left: 0;
+		display: none;
+	}
+	.navbar-expand-lg .navbar-collapse.show .navbar-nav li .dropdown-menu li .dropdown-menu.show {
+	    display: block;
+	    transition: all .4s ease;
+	}
+	.navbar-expand-lg .navbar-nav li .dropdown-menu li .dropdown-menu{
+		right: auto;
+		left: 0;
+		position: relative;
+		width: 100%;
+		display: none;
+		background: #14212b;
+	}
+	.navbar-expand-lg .navbar-nav li .dropdown-menu li .dropdown-menu li{
+		border-color: rgba(255, 255, 255, .1);
+	}
+	.navbar-expand-lg .navbar-nav li .dropdown-menu li .dropdown-menu li a{
+		color: #fff;
+	}
+	.navbar-expand-lg .navbar-nav li .dropdown-menu li .dropdown-menu li a:hover{
+		color: #ff4a17;
+	}
+	.navbar-expand-lg .navbar-collapse.show .navbar-nav li .dropdown-menu li .dropdown-menu.show{
+	    display: block;
+	    transition: all .4s ease;
+	}
+	.navbar-expand-lg .navbar-nav li .dropdown-menu.show{
+		display: block;
+	}
+	.client-logo.owl-carousel{
+		padding: 0 15px;
+		overflow: hidden;
+	}
+	.hero-banner-01{
+    	padding: 300px 0 250px;
+    }
+    .banner-content{
+    	margin-left: 0;
+    }
+    .ab-box{
+    	margin-right: 0;
+    }
+    .footer-01 .widget{
+    	margin-bottom: 30px;
+    }
+    .skill-content{
+    	margin-right: 0;
+    }
+    .banner-content h1{
+    	font-size: 70px;
+    }
+    .sec-title{
+    	font-size: 36px;
+    	line-height: 46px;
+    }
+    .cta-item{
+    	padding-left: 125px;
+    }
+    .cta-item img{
+    	height: 140px;
+    	left: 0;
+    }
+    .cta-item.right {
+	    padding-right: 50px;
+	    padding-left: 20px;
+	}
+	.cta-item.right img{
+		right: 0;
+	}
+	/* Home 02 */
+	.navbar.navbar-two.navbar-expand-lg{
+		margin: 0 ;
+	}
+	.navbar-two.navbar-expand-lg .navbar-nav{
+		padding-left: 0;
+	}
+	.navbar-two.navbar-expand-lg .navbar-nav li{
+		margin: 0;
+	}
+	.strategy-growth img{
+    	max-width: 100%;
+    }
+    .service-man img{
+    	max-width: 100%;
+    	height: auto;
+    }
+    .serivce-item-02.si-05,
+    .serivce-item-02.si-04,
+    .serivce-item-02.si-03,
+    .serivce-item-02.si-02 {
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+	.banner-shape-1{
+		display: none;
+	}
+	.hero-banner-02 .banner-content p{
+		padding: 0;
+	}
+	.serivce-item-02{
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+    .skills-section-2 .skill-content{
+    	margin-left: 0;
+    }
+    .news-item-2 .post-details{
+    	padding-left: 15px;
+    	padding-right: 15px;
+    }
+    .ab-content{
+		padding-left: 20px;
+	}
+	.ab-box-1{
+		width: 100%;
+	}
+	.ab-box-in {
+	    margin-left: -30px;
+	}
+	.mailchimp-form{
+		width: 100%;
+		height: 80px;
+		padding: 10px 20px;
+	}
+	.mailchimp-form:after{
+		line-height: 80px;
+	}
+	.mailchimp-form button{
+		position: relative;
+		top: 0;
+		margin: 20px 0 0;
+	}
+	.skill-thumb-2 {
+	    margin-left: -25px;
+	}
+	.skills-section-2 .skill-content{
+		padding-top: 0;
+		margin-right: 0;
+	}
+	.strategy-content{
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.tabbar-wrapper,
+	.navbar.navbar-three{
+		margin: 0 0px;
+	}
+	.navbar.navbar-three{
+		padding: 0 15px;
+	}
+	.navbar.navbar-three .navbar-brand{
+		padding: 18px 0px;
+	}
+	.navbar.navbar-three .navbar-nav li {
+	    margin-right: 0px;
+	}
+	.testi-quote{
+		margin: 0;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.testimonial-slider.slick-initialized .slick-slide{
+		margin: 0;
+	}
+	.testi-quote p{
+		font-size: 24px;
+		line-height: 40px;
+	}
+	.slider-nav{
+		margin: 0;
+	}
+	.slider-nav.slick-initialized .slick-slide{
+		margin: 0;
+	}
+	.contact-form{
+		margin-left: 0;
+		padding: 60px 20px;
+	}
+	.author-meta{
+		width: 250px;
+	}
+	.author-meta h5{
+		font-size: 22px;
+	}
+	.wp-shape-right{
+		display: none;
+	}
+	.box-thumb-2 {
+	    position: relative;
+	    right: 0;
+	    top: 0;
+	    margin-top: 20px;
+	}
+	.hero-banner-03{
+		padding-top: 300px;
+	}
+	.hero-banner-03 .banner-content h1{
+		font-size: 55px;
+	}
+	.banner-st3-thumb{
+		margin: 0;
+	}
+	.banner-st3-thumb img{
+		width: 100%;
+	}
+	.tabbar-wrapper{
+		padding: 8px 15px;
+	}
+	.pricing-item{
+		margin-bottom: 30px;
+	}
+	.service-image img{
+		max-width: 100%;
+	}
+	.service-image{
+		position: relative;
+		bottom: 0;
+		margin-bottom: 30px;
+	}
+	.service-section-4 .sec-title {
+	    margin-bottom: 60px;
+	}
+	.pricing-item{
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+	.bread-crumbs{
+		margin-bottom: 30px;
+	}
+	.page-content{
+		margin-left: 15px;
+	}
+	.page-content h2{
+		font-size: 36px;
+		line-height: 38px;
+	}
+	.service-title{
+		padding-left: 20px;
+		padding-right: 20px;
+		width: calc(100% - 40px);
+	}
+	.service-title h3{
+		font-size: 36px;
+		line-height: 44px;
+	}
+	.platform-image img{
+		margin-bottom: 30px;
+	}
+	.more-link {
+	    padding: 0 0 0px 0;
+	}
+	.more-link p{
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.service-pagi div{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.folio-content {
+		display: block;
+	    width: calc(100% - 60px);
+	    padding: 46px 40px 44px;
+	}
+	.fs-item{
+		width: 49%;
+		margin: 10px 0;
+	}
+	.news-page:after{
+		width: 100%;
+		height: 63%;
+	}
+	.news-item-3{
+		padding-right: 0;
+	}
+	.news-footer{
+		margin: 0;
+	}
+	.news-sidebar{
+		margin-top: 100px;
+	}
+	.single-news-page:after{
+		height: 65%;
+		width: 100%;
+	}
+	.news-deatil-area,
+	.comment-area{
+		padding-right: 0;
+	}
+	.contct-box{
+		margin: 40px 0 0;
+	}
+	.contact-page-form{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+}
+/*------------------------------------------------------------------------------------
+/ 5. Responsive For Mobile Device
+--------------------------------------------------------------------------------------*/
+@media (max-width: 767px){
+    /*Home One*/
+    .navbar-brand {
+	    padding: 18px 20px;
+	}
+	.navbar-brand img{
+		max-width: 90%;
+	}
+    .hero-banner-01{
+    	padding: 250px 0 200px;
+    }
+    .banner-content h1{
+    	font-size: 40px;
+    	line-height: 50px;
+    	margin-bottom: 35px;
+    }
+    .banner-content ul li{
+    	margin-bottom: 25px;
+    }
+    .skill-wrapper{
+    	display: block;
+    }
+    .search-area{
+    	display: none;
+    }
+    .appoint-btn,
+    .search-btn{
+    	display: none;
+    }
+    .skill-item{
+    	margin-right: 0;
+    	margin-bottom: 30px;
+    }
+    .fact-wrapper{
+    	display: block;
+    }
+    .funfact-item{
+    	margin-bottom: 50px;
+    }
+    .sec-title{
+    	font-size: 40px;
+    	line-height: 52px;
+    }
+    .portfolio-section .quomodo-btn{
+    	float: left;
+    	margin: -40px 0 50px;
+    }
+    .skill-thumb{
+    	margin: 0 25px;
+    }
+    .skill-thumb img{
+    	width: 100%;
+    }
+    .angle-top{
+    	left: -27px;
+    }
+    .copyright{
+    	text-align: center;
+    }
+    .copyright p{
+    	float: none;
+    	text-align: center;
+    	margin-top: 10px;
+    }
+    .post-details{
+    	width: calc(100% - 40px);
+    }
+    .post-footer a{
+    	margin-right: 15px;
+    	font-size: 14px;
+    }
+    .cta-section-2 .sec-title{
+    	margin-bottom: 30px;
+    }
+    .cta-section-2 .quomodo-btn{
+    	float: left;
+    	margin: 0 0 50px 20px;
+    }
+    .cta-shape-1,
+    .cta-shape-2{
+    	display: none;
+    }
+    .strategy-shape{
+    	display: none;
+    }
+    .cta-item{
+    	padding: 37px 10px 50px 110px;
+    	margin-bottom: 30px;
+    }
+    .cta-item h4{
+    	font-size: 20px;
+    	line-height: 30px;
+    }
+    .cta-item img{
+    	height: 130px;
+    	left: 0;
+    }
+    .cta-item.right {
+	    padding-right: 50px;
+	    padding-left: 20px;
+	}
+	.cta-item.right img{
+		right: 0;
+	}
+	.work-detail{
+		width: calc(100% - 40px);
+	}
+	/*Home Two*/
+	.hero-banner-02{
+		padding: 120px 0 150px;
+	}
+	.banner-thumb{
+		display: none;
+	}
+	.hero-banner-02 .banner-content ul li{
+		margin-bottom: 10px;
+	}
+	.navbar.navbar-two .navbar-brand{
+		padding: 22px 0;
+	}
+	.solution-contact img{
+		position: relative;
+		bottom: 0;
+		margin-bottom: 20px;
+	}
+	.solution-contact{
+		margin-left: 0;
+		padding: 0 0 30px;
+	}
+	.solution-wrapper{
+		padding: 50px 15px;
+	}
+	.about-box-thumb {
+	    display: block;
+	    justify-content: inherit;
+	}
+	.ab-box-1{
+		width: 100%;
+	}
+	.ab-box-2,
+	.ab-box-in{
+		margin: 0;
+	}
+	.ab-content{
+		padding-left: 20px;
+	}
+	.service-section-2 .sec-title {
+	    margin-bottom: 60px;
+	}
+	.service-man{
+		margin: 0 0 20px;
+	}
+	.skill-thumb-2 {
+	    margin-left: 0;
+	}
+	.team-detail{
+		margin-right: 15px;
+	}
+	.video-section{
+		padding: 240px 0;
+	}
+	.call-to-action .cta-item img{
+		left: 0;
+	}
+	.mailchimp-form button{
+		position: relative;
+		top: 15px;
+		margin-top: 15px;
+	}
+	.mailchimp-form input[type="email"]{
+		padding-right: 20px;
+	}
+	/* Home 3 */
+	.top-info{
+		display: none;
+	}
+	.top-social{
+		text-align: center;
+	}
+	.hero-banner-03{
+		padding: 300px 0 118px;
+	}
+	.banner-content .sub-heading{
+		margin-bottom: 30px;
+	}
+	.hero-banner-03 .banner-content {
+	    padding-left: 25px;
+	}
+	.banner-st3-thumb img{
+		max-width: 100%;
+	}
+	.banner-st3-thumb{
+		margin-top: 10px;
+	}
+	.hero-banner-03 .banner-content ul li{
+		margin-bottom: 10px;
+	}
+	.serivce-item-03{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.icon-box{
+		padding-left: 20px;
+	    margin-bottom: 20px;
+	}
+	.icon-box svg{
+		position: relative;
+	    top: 0;
+	    left: -10px;
+	    margin: 0 0 17px;
+	    display: block;
+	}
+	.work-title{
+		margin-bottom: 20px;
+		padding: 50px 20px 35px 40px;
+	}
+	.noPaddingLeft{
+		padding-left: 15px;
+	}
+	.input-form textarea, .input-form input{
+		padding-left: 20px;
+	}
+	.contact-form{
+		margin-top: 80px;
+	}
+	.author-meta{
+		margin: 0 auto;
+	}
+	.pricing-item{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.pricing-item ul li i{
+		margin-right: 20px;
+	}
+	.more-link{
+		padding: 0 0 30px 0;
+	}
+	.service-pagi div{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.service-pagi h3{
+		font-size: 24px;
+	}
+	.folio-content {
+		width: 100%;
+		margin: 50px 0;
+	    display: block;
+	}
+	.fs-item{
+		width: 100%;
+		display: block;
+	}
+	.news-details{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.news-details h3{
+		font-size: 25px;
+		line-height: 36px;
+	}
+	#gallery-image .carousel-control-prev, 
+	#gallery-image .carousel-control-next{
+		width: 50px;
+		height: 50px;
+		line-height: 50px;
+	}
+	.news-thumb .popup-video{
+		width: 60px;
+		height: 60px;
+		line-height: 60px;
+	}
+	.quomodo-pagination{
+		margin: 0;
+	}
+	.news-sidebar{
+		padding: 0 0;
+	}
+	.news-page:after{
+		height: 59%;
+	}
+	.single-news-page:after{
+		height: 76%;
+		width: 100%;
+	}
+	.news-deatil-area .wp-block-columns .wp-block-column{
+		margin-bottom: 30px;
+	}
+	.news-deatil-area,
+	.comment-area{
+		padding-right: 0;
+	}
+	.post-author,
+	blockquote{
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+	.post-pagination{
+		position: relative;
+		margin: 0 0 25px;
+	}
+	.social-share{
+		width: 100%;
+	}
+	.social-share ul li a{
+		margin: 0 5px;
+	}
+	.social-share p span{
+		margin: 0 3px 0 5px;
+	}
+	.tabbar-wrapper{
+		justify-content: center;
+	}
+}
